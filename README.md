@@ -61,6 +61,12 @@ The dataset contains two main columns:
 Source:
 Kaggle Phishing Email Dataset
 
+Download the dataset from Kaggle:
+https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
+
+Place it inside:
+
+data/phishing_email.csv
 ---
 
 ## 🛠 Technologies Used
